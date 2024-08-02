@@ -1,0 +1,13 @@
+C:\Users\82109\source\repos\Noveler\Noveler\bin\Debug\Noveler.exe.config
+C:\Users\82109\source\repos\Noveler\Noveler\bin\Debug\Noveler.exe
+C:\Users\82109\source\repos\Noveler\Noveler\bin\Debug\Noveler.pdb
+C:\Users\82109\source\repos\Noveler\Noveler\obj\Debug\Noveler.csproj.AssemblyReference.cache
+C:\Users\82109\source\repos\Noveler\Noveler\obj\Debug\Noveler.Form1.resources
+C:\Users\82109\source\repos\Noveler\Noveler\obj\Debug\Noveler.Properties.Resources.resources
+C:\Users\82109\source\repos\Noveler\Noveler\obj\Debug\Noveler.csproj.GenerateResource.cache
+C:\Users\82109\source\repos\Noveler\Noveler\obj\Debug\Noveler.csproj.CoreCompileInputs.cache
+C:\Users\82109\source\repos\Noveler\Noveler\obj\Debug\Noveler.exe
+C:\Users\82109\source\repos\Noveler\Noveler\obj\Debug\Noveler.pdb
+C:\Users\82109\source\repos\Noveler\Noveler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\82109\source\repos\Noveler\Noveler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\82109\source\repos\Noveler\Noveler\obj\Debug\Noveler.csproj.Up2Date
